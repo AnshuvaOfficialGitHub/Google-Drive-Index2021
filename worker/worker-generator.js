@@ -291,7 +291,7 @@ async function handleRequest(request) {
         <div class="mdui-col-sm-2">
             <a class="mdui-btn mdui-color-theme-accent mdui-ripple"
                href="https://accounts.google.com/o/oauth2/auth?client_id=${clientId}&redirect_uri=${redirectURI}&response_type=code&access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&approval_prompt=auto"
-               target="_blank">1. Get Authentication Code</a>
+               target="_blank">1. Get Authentication Code From Your GoogleDrive</a>
         </div>
     </div>
     <br><br>
