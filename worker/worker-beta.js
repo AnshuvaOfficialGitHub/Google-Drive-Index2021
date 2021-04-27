@@ -99,7 +99,7 @@ const uiConfig = {
     "disable_player": false, // Set this to true to hide audio and video players
     "poster": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021@main/images/poster.jpg", // Video poster URL or see Readme to how to load from Drive
     "audioposter": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021@main/images/music.jpg", // Video poster URL or see Readme to how to load from Drive
-    "jsdelivr_cdn_src": "https://github.com/AnshuvaOfficialGitHub/Google-Drive-Index2021", // If Project is Forked, then enter your Github repo
+    "jsdelivr_cdn_src": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021", // If Project is Forked, then enter your Github repo
     "render_head_md": true, // Render Head.md
     "render_readme_md": true, // Render Readme.md
     "plyr_io_version": "3.6.4", // Change plyr.io version in future when needed.
