@@ -772,7 +772,7 @@ function file_code(path) {
 </div>
 	<p class="card-text text-center"><a href="${url}" class="btn btn-primary">Download</a> <button onclick="copyFunction()" onmouseout="outFunc()" class="btn btn-success"> <span class="tooltiptext" id="myTooltip">Copy</span> </button></p><br></div>
 <script src="https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021@main/js/ace/1.4.7/ace.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Google-Drive-Index@2.0.8/js/ace/1.4.7/ext-language_tools.js"></script>`;
+<script src="https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021@main/js/ace/1.4.7/ext-language_tools.js"></script>`;
     $('#content').html(content);
 
     $.get(path, function(data) {
