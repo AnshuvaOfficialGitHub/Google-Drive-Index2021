@@ -10,7 +10,7 @@ const redirectURI = 'urn:ietf:wg:oauth:2.0:oob';
 const jsURL = 'https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Drive-Index/master/worker/worker-beta.js';
 
 async function handleRequest(request) {
-    let title = getParameterByName(request.url, 'site_name') || 'Google-Drive-Index2021';
+    let title = getParameterByName(request.url, 'site_name') || 'Google-Drive-Index-2021';
     let auth_code = getParameterByName(request.url, 'auth_code');
     let root = getParameterByName(request.url, 'root') || 'root';
     let user = getParameterByName(request.url, 'user') || '';
@@ -45,7 +45,7 @@ async function handleRequest(request) {
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
-    <title>Google-Drive-Index2021</title>
+    <title>Google-Drive-Index-2021</title>
     <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021@main/images/favicon.ico"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@0.4.1/dist/css/mdui.min.css">
     <script src="https://cdn.jsdelivr.net/npm/mdui@0.4.1/dist/js/mdui.min.js"></script>
@@ -285,7 +285,7 @@ async function handleRequest(request) {
 <body class="mdui-theme-primary-blue-grey mdui-theme-accent-blue">
 <div class="mdui-container">
     <br><br>
-    <a href="https://github.com/AnshuvaOfficialGitHub/Google-Drive-Index2021"><img border="0" alt="AnshuvaOfficialGitHub" src="https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021@main/images/Google-Drive-Index2021-image.png" height="30px"></a><h3>Google-Drive-Index-Generator2021</h3>
+    <a href="https://github.com/AnshuvaOfficialGitHub/Google-Drive-Index2021"><img border="0" alt="AnshuvaOfficialGitHub" src="https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021@main/images/Google-Drive-Index2021-image.png" height="30px"></a><h3>Google-Drive-Index-Generator-2021</h3>
     <br>
     <div class="mdui-row">
         <div class="mdui-col-sm-2">
