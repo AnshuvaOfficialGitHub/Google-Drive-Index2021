@@ -81,31 +81,30 @@ const authConfig = {
  */
 const uiConfig = {
     "theme": "dark", // switch between themes, default set to dark, select from https://github.com/ParveenBhadooOfficial/Google-Drive-Index#themes
-    "version": "2.0.17-alpha.3", // don't touch this one. get latest code using generator at https://generator.driveindex.ga
+    "version": "2.0.17-alpha.2", // don't touch this one. get latest code using generator at https://generator.driveindex.ga
     // If you're using Image then set to true, If you want text then set it to false
     "logo_image": true, // true if you're using image link in next option.
     "logo_height": "", // only if logo_image is true
     "logo_width": "100px", // only if logo_image is true
     // if logo is true then link otherwise just text for name
-    "logo_link_name": "https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.3/bhadoo-cloud-logo-white.svg",
+    "logo_link_name": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021@main/images/Google-Drive-Index2021-image.png",
     "fixed_header": false, // If you want the header to be flexible or fixed.
-    "contact_link": "https://t.telegram.ind.in/BhadooCloud", // Link to Contact Button on Menu
-    "copyright_year": "2050", // year of copyright, can be anything like 2015 - 2020 or just 2020
-    "company_name": "Bhadoo Cloud", // Name next to copyright
-    "company_link": "https://t.telegram.ind.in/BhadooCloud", // link of copyright name
+    "contact_link": "https://anshume.com", // Link to Contact Button on Menu
+    "copyright_year": "2021", // year of copyright, can be anything like 2015 - 2020 or just 2020
+    "company_name": "Anshuva", // Name next to copyright
+    "company_link": "https://anshume.com", // link of copyright name
     "credit": true, // Set this to true to give us credit
     "display_size": true, // Set this to false to hide display file size
     "display_time": false, // Set this to false to hide display modified time for folder and files
     "disable_player": false, // Set this to true to hide audio and video players
-    "poster": "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Google-Drive-Index@2.0.10/images/poster.jpg", // Video poster URL or see Readme to how to load from Drive
-    "audioposter": "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Google-Drive-Index@2.0.10/images/music.jpg", // Video poster URL or see Readme to how to load from Drive
+    "poster": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021@main/images/poster.jpg", // Video poster URL or see Readme to how to load from Drive
+    "audioposter": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021@main/images/music.jpg", // Video poster URL or see Readme to how to load from Drive
     "jsdelivr_cdn_src": "https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Google-Drive-Index", // If Project is Forked, then enter your Github repo
     "render_head_md": true, // Render Head.md
     "render_readme_md": true, // Render Readme.md
-    "display_drive_link": false, // This will add a Link Button to Google Drive of that particular file.
     "plyr_io_version": "3.6.4", // Change plyr.io version in future when needed.
-    "unauthorized_owner_link": "https://i.telegram.ind.in/BhadooCloud", // Unauthorized Error Page Link to Owner
-    "unauthorized_owner_email": "username@googlemail.com", // Unauthorized Error Page Owner Email
+    "unauthorized_owner_link": "https://anshume.com", // Unauthorized Error Page Link to Owner
+    "unauthorized_owner_email": "enter your email here", // Unauthorized Error Page Owner Email
     "enable_arc": true, // If you want to use arc.io
     "arc_code": "jfoY2h19" // arc.io Integraion Code, get yours from https://portal.arc.io
 };
