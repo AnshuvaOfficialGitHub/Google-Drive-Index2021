@@ -53,7 +53,7 @@ const uiConfig = {
     "disable_player": false, // Set this to true to hide audio and video players
     "poster": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021@c876e1e3526a1a681713a8f71e23917b1ef99baa/images/poster.jpg", // Video poster URL or see Readme to how to load from Drive
     "audioposter": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021@c876e1e3526a1a681713a8f71e23917b1ef99baa/images/music.jpg", // Video poster URL or see Readme to how to load from Drive
-    "jsdelivr_cdn_src": "https://www.jsdelivr.com/package/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021", // If Project is Forked, then enter your Github repo
+    "jsdelivr_cdn_src": "https://cdn.jsdelivr.net/gh/AnshuvaOfficialGitHub/Google-Drive-Index2021", // If Project is Forked, then enter your Github repo
     "render_head_md": true, // Render Head.md
     "render_readme_md": true, // Render Readme.md
     "display_drive_link": false, // This will add a Link Button to Google Drive of that particular file.
